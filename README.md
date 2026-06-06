@@ -1,3 +1,8 @@
+<h1 align="center">Learning Go through Test-Driven Development</h1>
+<p align="center">A personal fork of <a href="https://github.com/quii/learn-go-with-tests"><code>quii/learn-go-with-tests</code></a> — working through each chapter, one test at a time.<br>
+<strong>Progress: ~17%</strong> · All practice code in <a href="https://github.com/Snehal-Pradhan/learn-go-with-tests/tree/main/mywork"><code>mywork/</code></a></p>
+
+
 # Learn Go with Tests
 
 <p align="center">
