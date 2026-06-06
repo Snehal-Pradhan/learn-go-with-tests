@@ -1,0 +1,11 @@
+package integers
+
+import f"fmt"
+
+func Add(num1 int, num2 int) int {
+	return num1 + num2
+}
+
+func main(){
+	f.Println(Add(2,3))
+}
