@@ -1,3 +1,5 @@
+<br><br>
+
 <h1 align="center">Go Basics → Gin</h1>
 <p>I wanted to learn the Go basics, and this TDD approach has helped a lot. This repo was suggested to me by an LLM like Claude, and I thought this could be a good reference to take my Golang skills to a level where I can build more advanced projects and get into <b>Gin</b>. Hence, I forked this repo, and it has been a great resource. Thanking all the maintainers and the owner of the repo ❤️</p>
 <p align="center">
@@ -6,7 +8,7 @@
   All practice code is in <a href="https://github.com/Snehal-Pradhan/learn-go-with-tests/tree/main/MY_WORK"><code>MY_WORK/</code></a>
 </p>
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 # Learn Go with Tests
