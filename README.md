@@ -1,4 +1,5 @@
 <h1 align="center">Go Basics → Gin</h1>
+<p>I wanted to learn the Go basics, and this TDD approach has helped a lot. This repo was suggested to me by an LLM like Claude, and I thought this could be a good reference to take my Golang skills to a level where I can build more advanced projects. Hence, I forked this repo, and it has been a great resource. Thanking all the maintainers and the owner of the repo ❤️</p>
 <p align="center">
   <strong>Forked <a href="https://github.com/quii/learn-go-with-tests"><code>quii/learn-go-with-tests</code></a></strong><br>
   Completed ~40% of the repo — more than enough to get into <strong>Gin</strong>.<br>
