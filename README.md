@@ -1,8 +1,8 @@
 <h1 align="center">Go Basics → Gin</h1>
 <p align="center">
   <strong>Forked <a href="https://github.com/quii/learn-go-with-tests"><code>quii/learn-go-with-tests</code></a></strong><br>
-  Completed the core Go fundamentals — now moving to <strong>Gin</strong> for building real web APIs.<br>
-  All practice code is in <a href="https://github.com/Snehal-Pradhan/learn-go-with-tests/tree/main/mywork"><code>mywork/</code></a>
+  Completed ~40% of the repo — more than enough to get into <strong>Gin</strong>.<br>
+  All practice code is in <a href="https://github.com/Snehal-Pradhan/learn-go-with-tests/tree/main/MY_WORK"><code>MY_WORK/</code></a>
 </p>
 
 <br><br><br><br><br>
